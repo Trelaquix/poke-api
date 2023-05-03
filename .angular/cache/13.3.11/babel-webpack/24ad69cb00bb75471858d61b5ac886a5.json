@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class PokemonDetail {\n  constructor() {\n    this.abilities = [];\n    this.types = [];\n  }\n\n}\n\nclass Ability {\n  constructor() {}\n\n}\n\nclass Species {}\n\nclass Type {}\n\nclass Sprite {}\n\nclass Stat {}","map":null,"metadata":{},"sourceType":"module"}
